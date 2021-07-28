@@ -14,7 +14,7 @@
 
 6. 由于在读取分割过程中发现pydicom_seg包对于shape的运算有误差，故**对pydicom_seg包中的reader.py文件进行了如下修改：**
 
-   ![image-20210728200259165](imgs/image-20210728200259165.png)
+  
 
 #### view_seg.py 
 
