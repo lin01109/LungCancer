@@ -1,4 +1,4 @@
-###LungCancer
+### LungCancer
 
 #### handle_dataset.py 
 
@@ -16,7 +16,7 @@
 
    ![image-20210728200259165](imgs/image-20210728200259165.png)
 
-####view_seg.py 
+#### view_seg.py 
 
 可以输出不为0的分割序列  通过输出图像查看对应的CT和分割是否匹配
 
